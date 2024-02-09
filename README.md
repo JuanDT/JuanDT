@@ -1,41 +1,37 @@
-# ¡Hola! 👋
+# Hello! 👋
 
-Bienvenido/a a mi perfil de GitHub. Soy Juan David.
+Welcome to my GitHub profile. I'm Juan David.
 
-## 🚀 Acerca de mí
+## 🚀 About Me
 
-- 👨‍💻 Soy estudiante de ingeniería de software.
-- 🌱 Actualmente estoy aprendiendo de todo.
-- 💡 Me apasiona la música y el mundo digital.
-- 📫 Puedes contactarme en juandavidtoromesa2@gmail.com.
+- 👨‍💻 I am a software engineering student.
+- 🌱 Currently, I am learning a bit of everything.
+- 💡 I am passionate about music and the digital world.
+- 📫 You can contact me at juandavidtoromesa2@gmail.com.
 
-## ⚡ Tecnologías y Herramientas
+## ⚡ Technologies and Tools
 
-Aquí algunas de las tecnologías y herramientas con las que trabajo:
+Here are some of the technologies and tools I work with:
 
-- [Lista de Tecnologías/Herramientas]
+- Java
+- HTML
+- JavaScript
+- CSS
+- TypeScript
+- Python
+- SQL
+- Angular
+- Spring Boot
+- Git
+- GitHub
 
-## 🌐 Encuéntrame en la web
+## 🌐 Find Me Online
 
-- 💼 [LinkedIn](Enlace a tu perfil de LinkedIn)
-- 🐦 [Twitter](Enlace a tu perfil de Twitter)
-- 🌐 [Sitio web o Blog](Enlace a tu sitio web o blog)
-![Imagen en línea]([https://url_de_la_imagen.com/imagen.jpg](https://th.bing.com/th/id/OIP.6REgfFX8XvMdX_XQ15Z6gQHaHZ?rs=1&pid=ImgDetMain))
+- 💼 [LinkedIn](www.linkedin.com/in/juandavidtoro)
+- 📷 [Instagram](https://www.instagram.com/)
 
-## 📂 Proyectos Destacados
+## 🤝 Contributions
 
-Algunos de los proyectos en los que he trabajado:
+If you are interested in contributing to my projects, I'll be happy to receive your collaborations!
 
-- [Proyecto 1](Enlace al Proyecto 1)
-- [Proyecto 2](Enlace al Proyecto 2)
-
-## 🤝 Contribuciones
-
-Si estás interesado/a en contribuir a mis proyectos, ¡estaré encantado/a de recibir tus colaboraciones!
-
-## 📫 ¿Cómo contactarme?
-
-Puedes contactarme a través de [Tu Correo Electrónico] o a través de mis redes sociales mencionadas anteriormente.
-
-¡Gracias por visitar mi perfil! 😊
-
+Thank you for visiting my profile! 😊
