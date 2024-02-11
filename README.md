@@ -20,6 +20,7 @@ Here are some of the technologies and tools I work with:
 - TypeScript
 - Python
 - SQL
+- Node.js
 - Angular
 - Spring Boot
 - Git
